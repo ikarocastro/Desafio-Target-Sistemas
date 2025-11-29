@@ -1,40 +1,40 @@
 📦 SISTEMA DE CONTROLE DE ESTOQUE
-
+===========================================================================================================
 Um sistema simples e eficiente de controle de estoque.
 O sistema permite cadastrar produtos, listar, movimentar estoque (entrada e saída) e salvar os dados em arquivo.
-
+===========================================================================================================
 🧩 Funcionalidades
 ✔️ Cadastro de produtos
 
-Nome
+-Nome
 
-Código
+-Código
 
-Quantidade
+-Quantidade
 
-Preço
+-Preço
 
-Categoria
+-Categoria
 
 ✔️ Listagem dos produtos
 
-Ordenação e formatação organizada
+-Ordenação e formatação organizada
 
-Exibição de todos os dados do produto
+-Exibição de todos os dados do produto
 
 ✔️ Movimentação de estoque
 
-Entrada: adiciona quantidade
+-Entrada: adiciona quantidade
 
-Saída: remove quantidade com bloqueio de valores inválidos
+-Saída: remove quantidade com bloqueio de valores inválidos
 
-Registro atualizado automaticamente
+-Registro atualizado automaticamente
 
 ✔️ Armazenamento em arquivo
 
-Salva produtos em .txt (ou .csv, se você quiser adaptar)
+-Salva produtos em .txt (ou .csv, se você quiser adaptar)
 
-Lê ao iniciar o programa
+-Lê ao iniciar o programa
 
 🛠️ Tecnologias Utilizadas
 
@@ -46,7 +46,7 @@ Python 3+
 
 - Funções de manipulação de listas e dicionários
 
-  ▶️ Como Usar o Sistema
+▶️ Como Usar o Sistema
 🔹 1. Execute o arquivo principal
 python estoque.py
 
