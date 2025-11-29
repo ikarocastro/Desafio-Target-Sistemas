@@ -35,7 +35,9 @@ O sistema permite cadastrar produtos, listar, movimentar estoque (entrada e saí
 - Salva produtos em .txt (ou .csv, se você quiser adaptar)
 
 - Lê ao iniciar o programa
+
 ================================================================================================
+
 🛠️ Tecnologias Utilizadas
 
 Python 3+
