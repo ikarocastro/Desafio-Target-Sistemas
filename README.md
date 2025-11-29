@@ -6,36 +6,36 @@ O sistema permite cadastrar produtos, listar, movimentar estoque (entrada e saí
 🧩 Funcionalidades
 ✔️ Cadastro de produtos
 
--Nome
+- Nome
 
--Código
+- Código
 
--Quantidade
+- Quantidade
 
--Preço
+- Preço
 
--Categoria
+- Categoria
 
 ✔️ Listagem dos produtos
 
--Ordenação e formatação organizada
+- Ordenação e formatação organizada
 
--Exibição de todos os dados do produto
+- Exibição de todos os dados do produto
 
 ✔️ Movimentação de estoque
 
--Entrada: adiciona quantidade
+- Entrada: adiciona quantidade
 
--Saída: remove quantidade com bloqueio de valores inválidos
+- Saída: remove quantidade com bloqueio de valores inválidos
 
--Registro atualizado automaticamente
+- Registro atualizado automaticamente
 
 ✔️ Armazenamento em arquivo
 
--Salva produtos em .txt (ou .csv, se você quiser adaptar)
+- Salva produtos em .txt (ou .csv, se você quiser adaptar)
 
--Lê ao iniciar o programa
-
+- Lê ao iniciar o programa
+================================================================================================
 🛠️ Tecnologias Utilizadas
 
 Python 3+
@@ -56,33 +56,33 @@ O sistema permite:
 
 Entrada de estoque:
 
-Você escolhe o produto
+- Você escolhe o produto
 
-Informa quantos itens estão chegando
+- Informa quantos itens estão chegando
 
-O sistema soma com o valor atual
+- O sistema soma com o valor atual
 
 Saída de estoque:
 
-O sistema impede saída maior que o estoque
+- O sistema impede saída maior que o estoque
 
-Atualiza e salva automaticamente
+- Atualiza e salva automaticamente
 
 📦 Arquivo de Dados
 
 Os produtos são salvos automaticamente no arquivo:
 
-produtos.txt
+- produtos.txt
 
-Cada linha representa um produto com seus dados separados por ;.
+- Cada linha representa um produto com seus dados separados por ;.
 
 
 🚀 Futuras Melhorias (opcional)
 
-Exportar dados para .csv
+- Exportar dados para .csv
 
-Interface gráfica (Tkinter ou PyQt)
+- Interface gráfica (Tkinter ou PyQt)
 
-API REST para controle remoto
+- API REST para controle remoto
 
-Dashboard com gráficos
+- Dashboard com gráficos
