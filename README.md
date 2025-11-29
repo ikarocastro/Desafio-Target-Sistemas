@@ -36,7 +36,7 @@ O sistema permite cadastrar produtos, listar, movimentar estoque (entrada e saí
 
 - Lê ao iniciar o programa
 
-================================================================================================
+-----------------------------------------------------------------------------------------------------
 
 🛠️ Tecnologias Utilizadas
 
