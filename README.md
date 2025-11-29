@@ -1,6 +1,6 @@
 📦 SISTEMA DE CONTROLE DE ESTOQUE
 
-Um sistema simples e eficiente de controle de estoque, desenvolvido em linguagem C, ideal para estudo, prática e projetos iniciais.
+Um sistema simples e eficiente de controle de estoque.
 O sistema permite cadastrar produtos, listar, movimentar estoque (entrada e saída) e salvar os dados em arquivo.
 
 🧩 Funcionalidades
