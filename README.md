@@ -3,7 +3,8 @@
 Um sistema simples e eficiente de controle de estoque.
 O sistema permite cadastrar produtos, listar, movimentar estoque (entrada e saída) e salvar os dados em arquivo.
 ===========================================================================================================
-🧩 Funcionalidades
+
+🧩 FUNCIONALIDADES
 ✔️ Cadastro de produtos
 
 - Nome
@@ -38,7 +39,7 @@ O sistema permite cadastrar produtos, listar, movimentar estoque (entrada e saí
 
 -----------------------------------------------------------------------------------------------------
 
-🛠️ Tecnologias Utilizadas
+🛠️ TECNOLOGIAS UTILIZADAS
 
 Python 3+
 
@@ -48,7 +49,10 @@ Python 3+
 
 - Funções de manipulação de listas e dicionários
 
-▶️ Como Usar o Sistema
+------------------------------------------------------------------------------------------------------
+
+▶️ COMO USAR O SISTEMA
+
 🔹 1. Execute o arquivo principal
 python estoque.py
 
@@ -70,7 +74,9 @@ Saída de estoque:
 
 - Atualiza e salva automaticamente
 
-📦 Arquivo de Dados
+-------------------------------------------------------------------------------------------------------
+
+📦 ARQUIVO DE DADOS
 
 Os produtos são salvos automaticamente no arquivo:
 
@@ -78,8 +84,9 @@ Os produtos são salvos automaticamente no arquivo:
 
 - Cada linha representa um produto com seus dados separados por ;.
 
+-------------------------------------------------------------------------------------------------------
 
-🚀 Futuras Melhorias (opcional)
+🚀 FUTURAS MELHORIAS (opcional)
 
 - Exportar dados para .csv
 
